@@ -3,7 +3,7 @@
  * Loads CSV data and renders Chart.js visualizations
  */
 
-const DATA_BASE_URL = '/data';
+const DATA_BASE_URL = 'data';
 
 // Chart.js default configuration
 Chart.defaults.font.family = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
